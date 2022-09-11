@@ -1,0 +1,4 @@
+npm i class-validator class-transformer --save
+
+https://github.com/typestack/class-validator
+
